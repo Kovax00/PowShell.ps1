@@ -1,4 +1,4 @@
-# PowShell.ps1
+# PowShell.Koc (solo entra al archivo en github copia y pegalo)
 Comando de PowerShell ofuscado para realizar un backdoor, indetectable para windows defender, ideal para realizar PE 
 
 ## Primero debes tener el listening listo en kali linux / otra distro
