@@ -7,6 +7,6 @@ kovax00@Fsociety$: sudo nc -lvp 9001
 
 ## Si lo llega a detecta el antivirus por razon de "Quemado" aun asi deberia funcionar la conexion por cmd mientras no lo tengas en un archivo.
 
-Abre el archivo "PowShell.ps1" desde Github copialo y pegalo directamente en cmd, ¿que puedes hacer con este script? Realizar un PE (Portable execute) indetectable
+Abre el archivo "PowShell.ps1" desde Github copialo y pegalo directamente en powershell, ¿que puedes hacer con este script? Realizar un PE (Portable execute) indetectable
 
 Happy hunting 
